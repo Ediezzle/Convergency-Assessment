@@ -1,0 +1,22 @@
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.exe
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.deps.json
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.runtimeconfig.json
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.runtimeconfig.dev.json
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.dll
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.pdb
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.csprojAssemblyReference.cache
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.AssemblyInfoInputs.cache
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.AssemblyInfo.cs
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.dll
+C:\Users\JeffreysM\source\repos\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.pdb
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.exe
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.deps.json
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.runtimeconfig.json
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.runtimeconfig.dev.json
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.dll
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\bin\Debug\netcoreapp3.0\EvenFibonacciSum.pdb
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.csprojAssemblyReference.cache
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.AssemblyInfo.cs
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.dll
+C:\Users\Dev Ops\Downloads\Compressed\EvenFibonacciSum\EvenFibonacciSum\EvenFibonacciSum\obj\Debug\netcoreapp3.0\EvenFibonacciSum.pdb
